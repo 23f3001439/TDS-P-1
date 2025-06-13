@@ -1,0 +1,10 @@
+__pycache__/
+.env
+*.sqlite3
+*.db-journal
+downloaded_threads/
+markdown_files/
+.preprocessed/
+*.png
+*.jpg
+*.jpeg

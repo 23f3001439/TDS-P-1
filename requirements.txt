@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+aiofiles
+numpy
+scikit-learn
+openai
+Pillow
