@@ -8,3 +8,5 @@ markdown_files/
 *.png
 *.jpg
 *.jpeg
+
+.vercel
